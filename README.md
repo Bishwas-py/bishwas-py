@@ -6,7 +6,6 @@
 - 🌱 I’m currently freelancing on Web Automation, scraping and web development.
 - 👯 I’m looking to collaborate as moderator in [Webmatrices Forum](https://webmatrices.com/)
 
-<br/>
 ### Connect with me:
 
 <a href="https://facebook.com/bishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari Facebook" width="26px" src="fb.png" /></a>
