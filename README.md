@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Python, Selenium, Django.
 - 🌱 I’m currently freelancing on Web Automation, scraping and web development.
-- 👯 I’m looking to collaborate as moderator in [Webmatrices Forum <img align="left" style="margin:2px;" alt="webmatrices forum : for python, django, blogging and seo" width="20px" src="webmatrices.png" />](https://webmatrices.com/)
+- 👯 I’m looking to collaborate as moderator in [Webmatrices Forum](https://webmatrices.com/)
 
-
+<br/>
 ### Connect with me:
 
 <a href="https://facebook.com/bishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari Facebook" width="26px" src="fb.png" /></a>
