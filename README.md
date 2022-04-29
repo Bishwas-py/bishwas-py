@@ -1,4 +1,4 @@
-# Hi there 👋. This is [Bishwas Bhandari](https://bishwas.webmatrices.com)
+# Hi there 👋. This is [Bishwas Bhandari](https://bishwas.net)
 
 ### A keen learner and freelancer enthusiast who loves pythoning the way.
 
@@ -37,5 +37,3 @@
 
 <br/>
 <br/>
-
-#### Readme creator: [Awebisam bro 😎](https://awebisam.com/)
