@@ -1,39 +1,37 @@
-# Hi there 👋. This is [Bishwas Bhandari](https://bishwas.net)
+<h1 align="center">Hi 👋, I'm Bishwas Bhandari</h1>
+<h3 align="center">Just a simple passionate Full-Stack developer from Nepal!</h3>
 
-### A keen learner and freelancer enthusiast who loves pythoning the way.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bishwas-py&label=Profile%20views&color=0e75b6&style=flat" alt="bishwas-py" /> </p>
 
-- 🔭 I’m currently working on Python, Selenium, Django.
-- 🌱 I’m currently freelancing on Web Automation, scraping and web development.
-- 👯 I’m looking to collaborate as moderator in [Webmatrices Forum](https://webmatrices.com/)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bishwas-py" alt="bishwas-py" /></a> </p>
 
-### Connect with me:
+- 🔭 I’m currently working on [Webmatrices](https://webmatrices.com/)
 
-<a href="https://facebook.com/bishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari Facebook" width="26px" src="fb.png" /></a>
+- 🌱 I’m currently learning **Ruby On Rails**
 
-<a href="https://fiverr.com/bishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari Fiverr" width="26px" src="fiverr.png" /></a>
+- 👯 I’m looking to collaborate on [Deviser Club](https://deviser.club/)
 
-<a href="https://www.youtube.com/c/devbishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari youtube" width="26px" src="yt.png" /></a>
+- 📝 I regularly write articles on [https://blog.webmatrices.com/](https://blog.webmatrices.com/)
 
-<a href="https://twitter.com/BhBishwas"><img align="left" style="margin:2px;" alt="Bishwas Bhandari twitter" width="26px" src="twitter.png" /></a>
+- 💬 Ask me about **Next Js, Tailwind CSS and Django**
 
-<a href="https://bishwas.webmatrices.com"><img align="left" style="margin:2px;" alt="Bishwas Bhandari portfolio" width="26px" src="bishwas.png" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://deviser.club/@bishwasbh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/42182303/184461182-8b3686db-9c13-49da-9c7d-506c3c049075.png" alt="@bishwas" height="30" width="30" /></a>
+<a href="https://dev.to/developerbishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="developerbishwas" height="30" width="40" /></a>
+<a href="https://twitter.com/bhbishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhbishwas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bishwasbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bishwasbh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12195161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12195161" height="30" width="40" /></a>
+<a href="https://fb.com/bishwasbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bishwasbh" height="30" width="40" /></a>
+<a href="https://instagram.com/bishwas.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bishwas.py" height="30" width="40" /></a>
+<a href="https://medium.com/@bishwas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bishwas" height="30" width="40" /></a>
+</p>
 
-<a href="https://webmatrices.com/u/bishwasbh"><img align="left" style="margin:2px;" alt="Bishwas Bhandari portfolio" width="26px" src="webmatrices.png" /></a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishwas-py&show_icons=true&locale=en&layout=compact" alt="bishwas-py" /></p>
 
-### Tools I am using right now:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwas-py&show_icons=true&locale=en" alt="bishwas-py" /></p>
 
-<img align="left" style="margin:2px;" style="margin:2px;" alt="Visual Studio Code" width="26px" src="vscode.png" />
-<img align="left" style="margin:2px;" alt="HTML5" width="26px" src="html.png" />
-<img align="left" style="margin:2px;" alt="git" width="26px" src="selenium.png" />
-<img align="left" style="margin:2px;" alt="CSS3" width="26px" src="css.png" />
-<img align="left" style="margin:2px;" alt="tailwind" width="26px" src="tailwind.png" />
-<img align="left" style="margin:2px;" alt="js" width="26px" src="js.png" />
-<img align="left" style="margin:2px;" alt="vue" width="26px" src="vue.png" />
-<img align="left" style="margin:2px;" alt="python" width="26px" src="python.png" />
-<img align="left" style="margin:2px;" alt="django" width="26px" src="django.png" />
-<img align="left" style="margin:2px;" alt="git" width="26px" src="git.png" />
-
-<br/>
-<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bishwas-py&" alt="bishwas-py" /></p>
