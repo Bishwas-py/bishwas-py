@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Ruby On Rails**
 
-- 👯 I’m looking to collaborate on [Deviser Club](https://deviser.club/) [Open Source]
+- 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) [Open Source]
 
 - 📝 I regularly write articles on [https://blog.webmatrices.com/](https://blog.webmatrices.com/)
 
