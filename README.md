@@ -2,15 +2,13 @@
 <h3 align="center">Just a simple passionate Full-Stack developer from Nepal!</h3>
 
 
-- 🔭 I’m currently working on [Webmatrices](https://webmatrices.com/)
+- 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/)
 
-- 🌱 I’m currently learning **Ruby On Rails**
+- 🌱 I’m currently learning **
 
-- 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) [Open Source]
+- 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) and [QuAPI Framework](https://github.com/Bishwas-py/QuAPI). [Open Source]
 
-- 📝 I regularly write articles on [https://blog.webmatrices.com/](https://blog.webmatrices.com/)
-
-- 💬 Ask me about **SvelteKit, Django and Tailwind CSS**
+- 💬 Ask me about **SvelteKit, Python, Django and Tailwind CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
