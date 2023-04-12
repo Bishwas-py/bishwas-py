@@ -2,7 +2,7 @@
 <h3 align="center">Just a simple passionate Full-Stack developer from Nepal!</h3>
 
 
-- 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/)
+- 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/) as a Senior Full-Stack Developer
 
 - 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) and [QuAPI Framework](https://github.com/Bishwas-py/QuAPI). [Open Source]
 
