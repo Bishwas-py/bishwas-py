@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) and [QuAPI Framework](https://github.com/Bishwas-py/QuAPI). [Open Source]
 
 - 💬 Ask me about **SvelteKit, Python, Django and Tailwind CSS**
+-  Check out my [portfolio](https://bishwas.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
