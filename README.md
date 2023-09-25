@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bishwas Bhandari</h1>
-<h3 align="center">Just a simple passionate Full-Stack developer from Nepal!</h3>
+## Hi 👋, I'm Bishwas Bhandari
+### Just a simple passionate Full-Stack developer from Nepal
 
 
 - 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/) as a Senior Full-Stack Developer
