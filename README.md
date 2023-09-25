@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/) as a Senior Full-Stack Developer
 
-- 👯 I’m looking to collaborate on [Shazam Blog](https://github.com/Bishwas-py/shazam) and [QuAPI Framework](https://github.com/Bishwas-py/QuAPI). [Open Source]
+- 👯 I’m looking to collaborate on [Djapy](https://github.com/Bishwas-py/djapy) and [QuAPI Framework](https://github.com/Bishwas-py/QuAPI). [Open Source]
 
 - 💬 Ask me about **SvelteKit, Python, Django and Tailwind CSS**
 -  Check out my [portfolio](https://bishwas.net/)
