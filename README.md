@@ -8,4 +8,4 @@
 > 💬 Ask me about **SvelteKit, Python, Django and Tailwind CSS**
 
 
-[My Resume](Bishwas-Bhandari-Resume.pdf) | [My Portfolio](https://bishwas.net/)
+[My Resume](Bishwas-Bhandari-Resume.pdf) | [My Portfolio](https://bishwas.net/) | [Mail Me](yo@bishwas.net)
