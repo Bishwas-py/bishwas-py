@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Bishwas Bhandari
 ### Just a simple passionate Full-Stack developer from Nepal
 
-- 🔭 I’m currently working on [BlogStorm.AI](https://www.blogstorm.ai/) as a Senior Full-Stack Developer
+- 🔭 I’m currently working on [OnlySale.IO](https://onlysales.io/) as a Senior Frontend Developer
 
 - 👯 I’m looking to collaborate on [Djapy](https://github.com/Bishwas-py/djapy) and [Tipex](https://github.com/friendofsvelte/tipex). (Open Source)
 
