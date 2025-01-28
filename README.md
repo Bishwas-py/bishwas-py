@@ -3,7 +3,7 @@
 
 - 🔭 Previously worked on [OnlySale.IO](https://onlysales.io/) as a Senior Frontend Developer
 
-- 👯 I’m looking to collaborate on [Djapy](https://github.com/Bishwas-py/djapy) and [Tipex](https://github.com/friendofsvelte/tipex). (Open Source)
+- 👯 I’m looking to collaborate on [Djapy](https://github.com/Bishwas-py/djapy) and [@friendofsvelte/tipex](https://github.com/friendofsvelte/tipex). (Open Source)
 
 > 💬 Ask me about **SvelteKit, Python, Django and Tailwind CSS**
 
